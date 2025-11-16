@@ -1,5 +1,5 @@
 /* 
-Q3. Write a program to input two numbers and display their sum.
+Q1. Write a program to input two numbers and display their sum.
 
 Sample Run:
 ---------------------------------
